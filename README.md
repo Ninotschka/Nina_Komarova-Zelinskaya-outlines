@@ -1,3 +1,5 @@
+![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/Beautyshot-lines.png)
+
 # outlines
 
 
@@ -29,7 +31,8 @@ I took my puzzle kit and went out in public places, asking friends and strangers
 ![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/text2.png)
 
 
-![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/puzzle-gen2.png)
+![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/puzzle-gen2.hand.png)
+![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/puzzle-gen2.02.png)
 
 Some of the results were more aesthetically interesting, some less, but in the end I had a randomly completed puzzle.
 
