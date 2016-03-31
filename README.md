@@ -4,7 +4,7 @@
 Our first task was to create an analog graphical algorithm on our own, write it down, and then pass it around in the class to see how people will respond to it. Repetitive patterns and their creation were always an interest of mine, so instead of using a very strict description, I was curious about how a classroom of creative people will respond to an interpretative algorithm.
 
 (Outline the very first Object that you see in your surrounding [your phone, the pencil, etc.] Repeat until the sheet is full)
-
+![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/puzzle%20g1.1.jpeg)
 Some of the first results were exactly what I was thinking of: one form of a certain type, repeated multiple times on a piece of paper until it was fully decorated. Some of them were literally a thin black outline of different larger objects, like a chair, or a pencil case, drawn next to each other to tell a story - almost like a comic.
 
 **Concept:**
