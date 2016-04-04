@@ -1,4 +1,4 @@
-![Remarq Report](https://github.com/Ninotschka/outlines/blob/master/Beautyshot-lines.png)
+![Remarq Report](Beautyshot-lines.png)
 
 # outlines
 
